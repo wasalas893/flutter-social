@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129942508369",
+    "firebase_url": "https://fluttershare-cd5ad.firebaseio.com",
+    "project_id": "fluttershare-cd5ad",
+    "storage_bucket": "fluttershare-cd5ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129942508369:android:87886d9fa5ef183de0f970",
+        "android_client_info": {
+          "package_name": "com.example.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129942508369-cp5q32pv2efcsufdofbgn0n5fnofgc6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsICYcxOl8MfIfaPq74_Xeqi5klJqacZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129942508369-cp5q32pv2efcsufdofbgn0n5fnofgc6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
